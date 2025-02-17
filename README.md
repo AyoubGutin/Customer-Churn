@@ -1,7 +1,7 @@
 # Customer Churn Analysis
 
 ## Overview
- Analysing customer churn in a fictional telecommunications company using Python - goal is to identify key factors contributing to churn rates, make predictions, and provide insights to reduce churn rates. 
+ Analysing customer churn in a fictional telecommunications company using Python - goal is to identify key factors contributing to churn rates, make predictions, and provide insights to reduce churn rates.
 
  ## Table of Contents
  - [Objective](#objective)
@@ -13,7 +13,7 @@
  - [Conclusion](#conclusion)
 
  ## Objective
- To analyse customer churn and identify key factors contributing to churn rates, helping the fictional company retain customers. 
+ To analyse customer churn and identify key factors contributing to churn rates, helping the fictional company retain customers via EDA and a PowerBI dashboard. Then, make predictions on whether a customer will churn using machine learning and a GUI to input a customer's details.
 
  ## Dataset
  The dataset used in this project is the [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download).<BR>Key Features:
