@@ -28,7 +28,6 @@
     - `Data_Cleaning.ipynb`: Cleaning and preprocessing data
     - `Exploratory_Data_Analysis.ipynb`: Initial exploration of the data, focusing on visualisations, aiming to gather insights 
     - `Predictive_Modelling.ipynb`: Bulding models for predictions 
-    - `Insights.ipynb`: Summarising findings and insights
 - **requirements.txt**: List of Python dependencies
 - **powerbi_dashboard/**
   - `churn_dashboard.pbix`: A PowerBI report, including a dashboard for interactive visualisations and a high level overview of the dataset from a business perspective
