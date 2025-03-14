@@ -51,11 +51,3 @@ pip install -r requirements.txt
 ```
 3) Open jupyter notebooks in the notebooks directory and run the cells you wish to 
 
-## Results
-WiP
-
-## Conclusion
-WiP
-
-#
-
